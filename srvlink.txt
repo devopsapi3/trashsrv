@@ -1,1 +1,1 @@
-https://devopsapi3.000webhostapp.com/trash
+http://127.0.0.1/trash
